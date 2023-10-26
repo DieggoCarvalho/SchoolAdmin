@@ -1,0 +1,15 @@
+Introdução ao Node.JS para o desenvolvimento de aplicações web.
+
+-> JavaScript
+-> Node.JS
+-> NPM
+-> TypeScript
+
+SchoolAdmin
+API que permite o gerenciamento de cursos e estudantes.
+gerenciar cursos e estudantes.
+
+Node.JS: JavaScript Runtime Enviroment
+
+MK Solutions. 
+Docker, Go.
