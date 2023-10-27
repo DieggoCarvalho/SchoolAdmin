@@ -13,3 +13,21 @@ Node.JS: JavaScript Runtime Enviroment
 
 MK Solutions. 
 Docker, Go.
+Notion
+
+npm install / npm i yarn -g/-D
+
+npm i moment
+
+npm uninstall moment
+npm outdated
+npm i moment@latest
+
+npx tsc --init
+
+
+outDir
+
+npm i ts-node-dev -D
+
+npx tsnd src/server.ts
